@@ -1,7 +1,11 @@
 # Rumbleverse-Builds-Archive
 No, releasing a post-mortem update to break your game won't delete your past.
 
-Coming soon 
+# Builds
+
+| Version | Release Date      | Link                                               | Found By        | Additional Note                                                                                                                                       |
+|---------|-------------------|----------------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| #121553  | January 31st 2023 | https://rumbleverse-builds.antogamer.it/121553.zip | Project KO Team | Second last build before the actual shutdown, used by everyone who has made some kind of gameserver before due to it being the last not broken build. |
 
 ## Legal requests / contact
 
