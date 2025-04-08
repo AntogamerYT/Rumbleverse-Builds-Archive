@@ -1,3 +1,6 @@
+# Superceded by https://archive.org/details/@aeyth8/lists/4/sheik, I will keep the original readme just for archival purposes
+
+
 ![image](https://github.com/user-attachments/assets/7c134df6-8f97-4d8a-92e3-7227c0a7de75)
 
 <p align="center"> No, releasing a post-mortem update to break your game won't delete your past. </p>
